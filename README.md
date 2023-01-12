@@ -1,4 +1,4 @@
-# Password-_Generator
+# Password-Generator
 You'll create an app that runs in the browser and features dynamically updated HTML and CSS, all powered by **JavaScript code** that you will write. Your app will have a **clean and polished user interface that is responsive,** ensuring that it adapts to multiple screen sizes.
 
 
@@ -29,11 +29,11 @@ You'll create an app that runs in the browser and features dynamically updated H
 ## Credits
 The following tutorials where used in this project:
 
-https://www.youtube.com/watch?v=JLZ4FH-L4eI
-https://www.youtube.com/watch?v=Pgdvj6InRKI&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=15
-https://www.youtube.com/watch?v=9hin-2yeCWY&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=15
-https://www.youtube.com/watch?v=_zYb4WB1eDo&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=17
-https://unitstep.net/blog/2009/08/11/evaluation-of-boolean-values-in-javascript/
+- https://www.youtube.com/watch?v=JLZ4FH-L4eI
+- https://www.youtube.com/watch?v=Pgdvj6InRKI&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=15
+- https://www.youtube.com/watch?v=9hin-2yeCWY&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=15
+- https://www.youtube.com/watch?v=_zYb4WB1eDo&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=17
+- https://unitstep.net/blog/2009/08/11/evaluation-of-boolean-values-in-javascript/
 
 
 
