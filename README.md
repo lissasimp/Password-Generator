@@ -20,7 +20,7 @@ You'll create an app that runs in the browser and features dynamically updated H
 
 ## Usage
 
-![alt text](.)
+![Picture of deployed page](./assets/Screenshot.PNG)
 
 ## Credits
 The following tutorials where used in this project:
