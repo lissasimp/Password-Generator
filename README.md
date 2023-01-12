@@ -1,16 +1,12 @@
 # Password-Generator
 You'll create an app that runs in the browser and features dynamically updated HTML and CSS, all powered by **JavaScript code** that you will write. Your app will have a **clean and polished user interface that is responsive,** ensuring that it adapts to multiple screen sizes.
 
-
-
 ## User Story
-
 - **AS** a user
 - **I WANT** to create a password generator
 - **SO THAT** an employee can generate a random password to their specification
 
 ## Acceptance Criteria
-
 - **WHEN** viewing the password length prompt
 - **THEN** the user can choose the password length of between 10 and 64 characters
 - **WHEN** viewing the 'include numeric characters' prompt
@@ -29,11 +25,11 @@ You'll create an app that runs in the browser and features dynamically updated H
 ## Credits
 The following tutorials where used in this project:
 
-- https://www.youtube.com/watch?v=JLZ4FH-L4eI
-- https://www.youtube.com/watch?v=Pgdvj6InRKI&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=15
-- https://www.youtube.com/watch?v=9hin-2yeCWY&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=15
-- https://www.youtube.com/watch?v=_zYb4WB1eDo&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=17
-- https://unitstep.net/blog/2009/08/11/evaluation-of-boolean-values-in-javascript/
+* [map()] https://www.youtube.com/watch?v=JLZ4FH-L4eI
+* [map()]https://www.youtube.com/watch?v=Pgdvj6InRKI&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=15
+* [map()] https://www.youtube.com/watch?v=9hin-2yeCWY&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=15
+* [map()]https://www.youtube.com/watch?v=_zYb4WB1eDo&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=17
+* [map()]https://unitstep.net/blog/2009/08/11/evaluation-of-boolean-values-in-javascript/
 
 
 
