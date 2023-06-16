@@ -12,7 +12,7 @@ function writePassword() {
 generateBtn.addEventListener('click', writePassword);
 
 // Array of special characters to be included in password
-var specialCharacters = [" !\"#$%&'()*+,-./:;<=>?@[\]^_`{|}~"];
+var specialCharacters = ["!\"#$%&'()*+,-./:;<=>?@[\]^_`{|}~"];
 
 // Array of numeric characters to be included in password
 var numericCharacters = ["0123456789"];
@@ -30,7 +30,7 @@ function generatePassword() {
 var result = "";
 
 //Prompt user for password length
-var userChoice = prompt("How many characters would you like your password to contain (10-64)?");
+var userChoice = Number(prompt("How many characters would you like your password to contain (10-64)?"));
 if (userChoice < 10 || userChoice > 64) {
   alert("Your password must contain between 10 and 64 characters. Please try again.")
   return generatePassword()
@@ -54,13 +54,13 @@ if (lower) {
 } 
 if (upper) {
   chosenChars += upperCasedCharacters
-}
+} 
 if (numChar) {
   chosenChars += numericCharacters
-} 
+}
 if (specChar) {
   chosenChars += specialCharacters
-} 
+}
 
 //Takes result from chosenChars and selects at random based on user's choice of length
 for (var i = 0; i < userChoice; i++) {
@@ -68,3 +68,5 @@ for (var i = 0; i < userChoice; i++) {
 }
 return result;
 }
+
+//PROBLEM - can't guarantee that random selector will pick all the features that the user has selected
