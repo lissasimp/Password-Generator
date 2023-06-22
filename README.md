@@ -40,11 +40,11 @@ As a user, I want to create a password generator so that an employee can generat
 ## Credits
 The following tutorials where used in this project:
 
-* [map()] https://www.youtube.com/watch?v=JLZ4FH-L4eI
-* [map()]https://www.youtube.com/watch?v=Pgdvj6InRKI&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=15
-* [map()] https://www.youtube.com/watch?v=9hin-2yeCWY&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=15
-* [map()]https://www.youtube.com/watch?v=_zYb4WB1eDo&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=17
-* [map()]https://unitstep.net/blog/2009/08/11/evaluation-of-boolean-values-in-javascript/
+-https://www.youtube.com/watch?v=JLZ4FH-L4eI
+-https://www.youtube.com/watch?v=Pgdvj6InRKI&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=15
+-https://www.youtube.com/watch?v=9hin-2yeCWY&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=15
+-https://www.youtube.com/watch?v=_zYb4WB1eDo&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2&index=17
+-https://unitstep.net/blog/2009/08/11/evaluation-of-boolean-values-in-javascript/
 
 ## Permission
 I'm happy for you to use the code or parts of the code for your own site, it is open source so people can learn from it and adapt it. However, I would encourage you to modify the theme and components to make it your own. If you are using the site's design largely unmodified, I'd appreciate being credited as the designer of the website.
